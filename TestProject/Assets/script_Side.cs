@@ -11,6 +11,6 @@ public class script_Side : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
     {
-        transform.Rotate(Vector3.right, 5);
+        transform.Rotate(Vector3.right, 3);
 	}
 }
